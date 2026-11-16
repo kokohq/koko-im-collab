@@ -8,6 +8,8 @@ actions, and answers natural-language questions about it.
 Commands start with `koko:`, for example `koko:summarize`, `koko:analyze 3`,
 or `koko:what decisions did we make this week?`.
 
+note: some code may need to be updated, originally added in the beginning of 2026
+
 ## What it does
 
 - **Summarize**: a digest of recent group messages, including transcribed audio and video.
@@ -163,6 +165,6 @@ go test ./...
 
 ## License
 
-Copyright 2026 Harish, KokoHq Inc.
+Copyright 2026 KokoHq Inc.
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full text.
