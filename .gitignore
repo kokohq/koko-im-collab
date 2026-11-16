@@ -1,0 +1,21 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Compiled binaries and build output
+/api/main
+/api/webhook
+/api/webhook-handler
+/api/whatsapp-webhook
+*.exe
+*.test
+*.out
+
+# Go
+/api/vendor/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
